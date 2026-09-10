@@ -201,6 +201,7 @@ thresholds on metrics 'http_req_duration' have been crossed
 - `threshold-pass.txt`
 - `threshold-fail.txt`
 - `ai-scenario.txt`
+- `k6-version.txt`
 
 ---
 
